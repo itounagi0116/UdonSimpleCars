@@ -28,29 +28,5 @@ WheelCollider を使用したシンプルなドライバーシステムです。
 
 ---
 
-### 追加資料(整備中)
-以下に、 **このスクリプトの機能** の簡単な説明を追加しています(LLMを用いて作成している為その点はご留意下さい)
-
-| **スクリプト名**               | **説明**                                                                                                                                  |
-|--------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|
-| **Editor**                     |                                                                                                                                          |
-| USC_CarEditor.cs               | 車両設定を行うためのUnityエディタ拡張。                                                                                                   |
-| USC_EditorUtilities.cs         | エディタユーティリティ関数を提供。                                                                                                       |
-| USC_Layers.cs                  | レイヤー設定を簡略化するスクリプト。                                                                                                     |
-| **Scripts - Accesories**       |                                                                                                                                          |
-| SpeedIndicator.cs              | 車両の速度を表示するインジケーターを制御。                                                                                               |
-| **Scripts - Core**             |                                                                                                                                          |
-| USC_BoardingCollider.cs        | 車両への搭乗を制御するコライダー設定。                                                                                                   |
-| USC_Car.cs                     | 車両の物理動作やインタラクション全般を管理するメインスクリプト。                                                                         |
-| USC_CenterOfMass.cs            | 車両の重心位置を設定するためのスクリプト。                                                                                               |
-| USC_RecoveryStation.cs         | リカバリーステーション（復帰ポイント）を制御。                                                                                           |
-| USC_Respawner.cs               | 車両をリスポーンさせる機能を提供。                                                                                                       |
-| USC_Seat.cs                    | 車両内の座席の機能や調整を行うスクリプト。                                                                                               |
-| **Scripts - Towing**           |                                                                                                                                          |
-| USC_HandPusher.cs              | 車両を手で押すための機能を提供するスクリプト。                                                                                           |
-| USC_RemotePusher.cs            | 遠隔で車両を押す機能を提供。                                                                                                            |
-| USC_TowingAnchor.cs            | トーイング（牽引）の起点となるアンカーを設定するスクリプト。                                                                             |
-| USC_TowingJoint.cs             | トーイングジョイントの動作を制御。                                                                                                       |
-| **Scripts - Utilities**        |                                                                                                                                          |
-| USC_RigidbodyEventDispatcher.cs | Rigidbodyのイベントを管理するためのユーティリティスクリプト。                                                                           |
+[補足](https://github.com/itounagi0116/UdonSimpleCars/blob/master/%E8%A3%9C%E8%B6%B3.md)                                                                      |
 
