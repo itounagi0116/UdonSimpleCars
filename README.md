@@ -1,7 +1,7 @@
 # UdonSimpleCars  
 WheelCollider を使用したシンプルなドライバーシステムです。同期可能でコード不要な設定が可能です。
 
-[![GitHub license](https://img.shields.io/github/license/SeaeeesSan/SimpleFolderIcon)](https://github.com/SeaeeesSan/SimpleFolderIcon/blob/master/LICENSE)
+![ライセンスバッジ](https://img.shields.io/badge/ライセンス-MIT-007EC6)
 
 ![image](https://user-images.githubusercontent.com/2088693/137936901-bdcb12c5-6d77-4162-a128-6690c99b9884.png)
 
