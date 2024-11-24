@@ -18,11 +18,15 @@
   },
   "unity": "2022.3",
   "legacyFolders": {
-    "Assets\\UdonSimpleCars": ""
+    "Assets\\UdonSimpleCars": "",
+    "Assets\\UdonSharp": "b031f928e5c709b4887f6513084aaa51",
+    "Assets\\Gizmos\\UdonSharp": "6e940dfc89ce4ca41b651e05bc21be6b"
   },
+  "legacyPackages": [
+  "com.vrchat.udonsharp"
+],
   "vpmDependencies": {
     "com.vrchat.udonsharp": "1.0.1",
-    "com.vrchat.worlds": "3.0.4",
-    "sh.orels.udontoolkit": "1.1.2"
+    "com.vrchat.worlds": "3.0.4"
   }
 }

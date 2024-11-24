@@ -1,7 +1,6 @@
 #pragma warning disable IDE1006
 
 using UdonSharp;
-using UdonToolkit;
 using UnityEngine;
 using VRC.SDK3.Components;
 using VRC.SDKBase;
